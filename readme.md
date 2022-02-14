@@ -28,7 +28,7 @@
 
 ## Credit
 
-### Tutorial Resources
+### pyGame, OpenCV, mediapipe Tutorial Resources
 - Coding with Russ
 - Tech with Tim
 - Murtaza's Workshop
