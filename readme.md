@@ -15,7 +15,7 @@
 
 * Make sure the PC you're using has a camera (preferably front-facing). Device `0` in the line `cap = VideoCapture(0)` in `cvGameDevTools.py` usually refers to the front-facing camera. Use `1` as the argument to set to front-facing camera
 * Install PyCharm or any other IDE that allows you to run Python natively on your PC (Python 3.9 ideally)
-* `pip install` required librariesL `opencv-python`, `pygame`, `numpy`, `mediapipe`
+* `pip install` required libraries: `opencv-python`, `pygame`, `numpy`, `mediapipe`
 * Try out demo implementations of CVGL with `tictactoe.py`, `snake.py`, `pong.py`, `spaceinvaders.py`, `spaceface.py`
 * **Implementation in new games**: The jist of it is:
   - `import cvGameDevTools` *CVGL library
@@ -28,7 +28,7 @@
 
 #### Game-specific demo instructions
 
-* FOR BEST RESULTS, KEEP RAISED FINGERS ORIENTED UPWARD WITH RESPECT TO FRAME
+**FOR BEST RESULTS, KEEP RAISED FINGERS ORIENTED UPWARD WITH RESPECT TO FRAME**
 
 * **Tic-tac-Toe** 
   - Keep fists clenched to prevent accidental move
