@@ -1,8 +1,16 @@
 # Computer Vision Game Library (CVGL)
 
-![image](/img/logo.png)
+<p align="center">
+  <img width="300" height="300" src="/img/logo.png">
+</p>
+
+
+<!-- ![image](/img/logo.png) -->
 
 [![CVGL advert](/img/yt.jpg)](https://www.youtube.com/watch?v=8n-QzCVP2iQ)
+<p align="center">
+<!--   <img width="200" height="200" src="/img/yt.jpg" a href="https://www.youtube.com/watch?v=8n-QzCVP2iQ">
+</p> -->
 
 ### Contributors:
 * Sharome Burton
