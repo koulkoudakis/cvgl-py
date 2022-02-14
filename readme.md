@@ -8,7 +8,7 @@
 ![image](/img/logo.png)
 
 
-![CVGL advert](https://www.youtube.com/watch?v=8n-QzCVP2iQ/0.jpg)](https://www.youtube.com/watch?v=8n-QzCVP2iQ)
+[![CVGL advert](https://www.youtube.com/watch?v=8n-QzCVP2iQ/0.jpg)](https://www.youtube.com/watch?v=8n-QzCVP2iQ)
 
 
 ### The way too short but 100% accurate instructions
