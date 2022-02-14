@@ -26,6 +26,40 @@
   - Use info returned from `frame_step()` as you would any other keyboard or mouse input event.
   - A window with the camera video feed overlayed on the game screen will be automatically created
 
+#### Game-specific demo instructions
+
+* FOR BEST RESULTS, KEEP RAISED FINGERS ORIENTED UPWARD WITH RESPECT TO FRAME
+
+* **Tic-tac-Toe** 
+  - Keep fists clenched to prevent accidental move
+  - Raising only index finger, drag the pink circle to where you want to make a move.
+  - With index finger raised, raise middle finger up. This triggers a move by the player. 
+  - Clench fist and remove hand from frame, allowing other player to then make their move.
+  - Clicking on board with mouse also works
+  - 
+* **Snake** 
+  - Player 1: Use direction arrows on keyboard to move snake. Maroon squares = food; blue squares - traps.
+  - Player 2: Use raised index fingers to spawn food; use raised index and middle fingers to spawn traps.
+
+* **Pong** 
+  - Use two fingers raised to move right paddle
+  - Keyboard direction buttons also work
+
+* **Space Invaders**
+  - Use index finger raised to move spaceship
+  - Use two fingers to start firing (for best experience, keep index finger raised and flick middle finger (as if flicking a booger) to fire)
+  - Keyboard direction buttons and space bar also works
+
+* **Space Face**
+  - Yellow ship: WASD movement + left CTRL to fire
+  - Red ship: Keyboard direction arrow movement + right CTRL to fire
+  - Dimensional Horror: 
+    - Place face in frame. This controls the position of the monster
+    - Index finger controls position of the hand. Move hand to left or right of screen to change targets.
+    - Raise both fingers to fire projectiles at ship. They home in on targets!
+
+* **Space Face**
+  -
 ## Credit
 
 ### pyGame, OpenCV, mediapipe tutorial resources and game assets
