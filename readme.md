@@ -1,15 +1,13 @@
 # Computer Vision Game Library (CVGL)
 
+![image](/img/logo.png)
+
+[![CVGL advert](/img/yt.jpg)](https://www.youtube.com/watch?v=8n-QzCVP2iQ)
+
 ### Contributors:
 * Sharome Burton
 * Logan Abreo
 * Cristiano Castaneda
-
-![image](/img/logo.png)
-
-
-[![CVGL advert](/img/yt.jpg)](https://www.youtube.com/watch?v=8n-QzCVP2iQ)
-
 
 ### The way too short but 100% accurate instructions
 
