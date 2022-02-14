@@ -43,3 +43,4 @@
 - Joshua (CS major)
 - Christa (geoscience major)
 - Mr. Carpenter (math major)
+- Aretha Fontaine
